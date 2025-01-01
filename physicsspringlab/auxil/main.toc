@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Relevant Knowledge}{2}{section.2}%
+\contentsline {section}{\numberline {3}Goal}{2}{section.3}%
+\contentsline {section}{\numberline {4}Materials}{2}{section.4}%
+\contentsline {section}{\numberline {5}Procedure}{3}{section.5}%
+\contentsline {section}{\numberline {6}Data}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Spring extension with different masses}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Length of $x_0$ and $x$}{3}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Change in position and velocity of the oscillating mass over time}{4}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Analysis}{4}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Calculating the spring constant}{4}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Solving for the mass of the mass holder}{5}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Calculating the mechanical energy}{6}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}Calculating gravitational potential energy}{6}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}Calculating spring/elastic potential energy}{7}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}Calculating kinetic energy}{7}{subsubsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.4}Calculating mechanical energy}{8}{subsubsection.7.3.4}%
+\contentsline {subsection}{\numberline {7.4}Calculating the rate of change of mechanical energy with respect to time}{9}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Discussion}{16}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Question 1:}{16}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Question 1a: Give the experimental average value for the rate of change of the mechanical energy of the oscillating mass with respect to time?}{16}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Question 1b: What is your experimental rate of change of the mechanical energy of the oscillating mass with respect to time?}{17}{subsubsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.2}Question 2: What are the energy transformations that are responsible for the change in mechanical energy?}{19}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Strengths, Potential Errors, and Possible Improvements}{19}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Strengths}{19}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Potential Errors}{19}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Possible Improvements}{20}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Conclusion}{20}{section.10}%

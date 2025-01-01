@@ -1,0 +1,13 @@
+result.add(this.createTeamVO(1L, "oscar-jin", "Oscar Jin", "JY Construction Founder", "./jyconstruction/img/team/Oscar_Jin_f8e9d61245.png"));
+result.add(this.createTeamVO(2L, "martin-ma", "Martin Ma", "Lead Designer", "./jyconstruction/img/team/Martin_Ma_77477cd071.png"));
+result.add(this.createTeamVO(3L, "brad-liu", "Brad Liu", "Architect &amp; Structural Engineer", "./jyconstruction/img/team/Brad_Liu_6a2a0a6248.png"));
+result.add(this.createTeamVO(4L, "lev-zhang", "Lev Zhang", "Construction Director", "./jyconstruction/img/team/Lev_Zhang_4fb97a203e.png"));
+result.add(this.createTeamVO(5L, "twinkle-li", "Twinkle Li", "Project Manager", "./jyconstruction/img/team/Twinkle_Li_cb113c77a0.png"));
+result.add(this.createTeamVO(6L, "charles-wang", "Charles Wang", "Multimedia Specialist", "./jyconstruction/img/team/Charles_Wang_07b35f4853.png"));
+result.add(this.createTeamVO(7L, "yee-yuan", "Yee Yuan", "Interior Designer", "./jyconstruction/img/team/yee_yuan_interior_designer_from_jy_construction_edb1312ae3.jpg"));
+result.add(this.createTeamVO(8L, "charles-geng", "Charles Geng", "Interior Designer", "./jyconstruction/img/team/Charles_Gen_Interior_Designer_jy_construction_team_567757282a.jpg"));
+result.add(this.createTeamVO(9L, "chloe-li", "Chloe Li", "Administrative Manager", "./jyconstruction/img/team/Chloe_Li_a871727e6a.png"));
+result.add(this.createTeamVO(10L, "michelle-ki", "Michelle Ki", "Project Coordinator", "./jyconstruction/img/team/michelle_ki_project_coordinator_from_jy_construction_854f8fa874.jpg"));
+result.add(this.createTeamVO(11L, "janice-yao", "Janice Yao", "Procurement Assistant", "./jyconstruction/img/team/Janice_Yao_c8dd261c48.png"));
+result.add(this.createTeamVO(12L, "eason-che", "Eason Che", "Construction Specialist", "./jyconstruction/img/team/Eason_Che_e2aae9e0e6.png"));
+result.add(this.createTeamVO(13L, "charlotte-gao", "Charlotte Gao", "Office Manager", "./jyconstruction/img/team/charlotte_c2c97524e1.jpg"));
