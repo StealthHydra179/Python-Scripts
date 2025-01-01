@@ -1,3 +1,5 @@
+#put into parser images
+
 file = open("commercial-listing-cn.txt","r", encoding="utf-8")
 
 
