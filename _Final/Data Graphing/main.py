@@ -1,9 +1,5 @@
-#done under datagraphing
-
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-import os
 
 files = [["data/file4044.csv", "4044"], ["data/file4045.csv", "4045"], ["data/file4047.csv", "4047"]]
 
@@ -38,12 +34,6 @@ for fileInfo in files:
             continue
         # If the column name is not time or average, save it to lines
         lines.append([df['Time'], df[columns[i]], fileInfo[1] + " " + columns[i]])
-
-# Graph the data
-for i in range(len(fileData)):
-    plt.plot(fileData[i][0], fileData[i][1], label=files[i][1])
-plt.legend()
-plt.show()
 
 # Graph the lines
 for line in lines:
