@@ -1,0 +1,171 @@
+<div data-v-d1a2d4d2="" class="members_wrap ant-row-flex" style="margin: -16px -8px;">
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Oscar_Jin_f8e9d61245.png" alt="Oscar Jin - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Oscar_Jin_f8e9d61245.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Oscar Jin</p>
+            <p data-v-57218c9c="" class="job_title">JY Construction Founder</p>
+            <p data-v-57218c9c="" class="intro">JY Construction Founder</p>
+            <a data-v-57218c9c="" href="/en/team/3" class="">
+                <h4 data-v-57218c9c="" class="">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Martin_Ma_77477cd071.png" alt="Martin Ma - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Martin_Ma_77477cd071.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Martin Ma</p>
+            <p data-v-57218c9c="" class="job_title">Lead Designer</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/4" class="">
+                <h4 data-v-57218c9c="" class="">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Brad_Liu_6a2a0a6248.png" alt="Brad Liu - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Brad_Liu_6a2a0a6248.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Brad Liu</p>
+            <p data-v-57218c9c="" class="job_title">Architect &amp; Structural Engineer</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/5" class="">
+                <h4 data-v-57218c9c="" class="">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Lev_Zhang_4fb97a203e.png" alt="Lev Zhang  - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Lev_Zhang_4fb97a203e.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Lev Zhang</p>
+            <p data-v-57218c9c="" class="job_title">Construction Director</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/6" class="">
+                <h4 data-v-57218c9c="" class="">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Twinkle_Li_cb113c77a0.png" alt="Twinkle Li  - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Twinkle_Li_cb113c77a0.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Twinkle Li</p>
+            <p data-v-57218c9c="" class="job_title">Project Manager</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/7" class="">
+                <h4 data-v-57218c9c="" class="">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Charles_Wang_07b35f4853.png" alt="Charles Wang - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Charles_Wang_07b35f4853.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Charles Wang</p>
+            <p data-v-57218c9c="" class="job_title">Multimedia Specialist</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/42" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/yee_yuan_interior_designer_from_jy_construction_edb1312ae3.jpg" alt="Yee Yuan - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/yee_yuan_interior_designer_from_jy_construction_edb1312ae3.jpg">
+            </div>
+            <p data-v-57218c9c="" class="name">Yee Yuan</p>
+            <p data-v-57218c9c="" class="job_title">Interior Designer</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/43" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Charles_Gen_Interior_Designer_jy_construction_team_567757282a.jpg" alt="Charles Geng - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Charles_Gen_Interior_Designer_jy_construction_team_567757282a.jpg">
+            </div>
+            <p data-v-57218c9c="" class="name">Charles Geng</p>
+            <p data-v-57218c9c="" class="job_title">Interior Designer</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/51" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Chloe_Li_a871727e6a.png" alt="Chloe Li - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Chloe_Li_a871727e6a.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Chloe Li</p>
+            <p data-v-57218c9c="" class="job_title">Administrative Manager</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/45" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/michelle_ki_project_coordinator_from_jy_construction_854f8fa874.jpg" alt="Michelle Ki - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/michelle_ki_project_coordinator_from_jy_construction_854f8fa874.jpg">
+            </div>
+            <p data-v-57218c9c="" class="name">Michelle Ki</p>
+            <p data-v-57218c9c="" class="job_title">Project Coordinator</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/52" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Janice_Yao_c8dd261c48.png" alt="Janice Yao - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Janice_Yao_c8dd261c48.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Janice Yao</p>
+            <p data-v-57218c9c="" class="job_title">Procurement Assistant</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/47" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Eason_Che_e2aae9e0e6.png" alt=" Eason Che - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/Eason_Che_e2aae9e0e6.png">
+            </div>
+            <p data-v-57218c9c="" class="name">Eason Che</p>
+            <p data-v-57218c9c="" class="job_title">Construction Specialist</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/48" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+    <div data-v-d1a2d4d2="" class="ant-col ant-col-xs-12 ant-col-sm-12 ant-col-md-8 ant-col-lg-6" style="padding: 16px 8px; display: block;">
+        <div data-v-57218c9c="" data-v-d1a2d4d2="" class="card_wrap">
+            <div data-v-57218c9c="" class="avatar_wrap">
+                <img data-v-57218c9c="" data-src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/charlotte_c2c97524e1.jpg" alt="Charlotte Gao - avatar | 匠垣建设" class="avatar lazyloaded" src="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/charlotte_c2c97524e1.jpg">
+            </div>
+            <p data-v-57218c9c="" class="name">Charlotte Gao</p>
+            <p data-v-57218c9c="" class="job_title">Office Manager</p>
+            <p data-v-57218c9c="" class="intro"></p>
+            <a data-v-57218c9c="" href="/en/team/49" class="">
+                <h4 data-v-57218c9c="" class="hidden">MORE</h4>
+            </a>
+        </div>
+    </div>
+</div>

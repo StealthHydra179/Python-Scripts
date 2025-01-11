@@ -1,0 +1,704 @@
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/bloor-spadian-milk-tea-snack-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/71a29664469b723d117ab25887b8499_2a6ab03d7d.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/71a29664469b723d117ab25887b8499_2a6ab03d7d.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/71a29664469b723d117ab25887b8499_2a6ab03d7d.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/71a29664469b723d117ab25887b8499_2a6ab03d7d.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Bloor/Spadian 奶茶小吃店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-finch-northtown-way-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/17a1a14c98804bd148f9d51db22a5d3_c6293d2042.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/17a1a14c98804bd148f9d51db22a5d3_c6293d2042.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/17a1a14c98804bd148f9d51db22a5d3_c6293d2042.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/17a1a14c98804bd148f9d51db22a5d3_c6293d2042.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Finch northtown way生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/local-digit-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/8702ef4af003e2fafd256be7421234e_d4b46f119f.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/8702ef4af003e2fafd256be7421234e_d4b46f119f.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/8702ef4af003e2fafd256be7421234e_d4b46f119f.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/8702ef4af003e2fafd256be7421234e_d4b46f119f.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Sheppard绿楼生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/sheppard-404-japanese-food-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5dc131ea45bb25628daac92ee27c8a4_1de1b0e163.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5dc131ea45bb25628daac92ee27c8a4_1de1b0e163.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5dc131ea45bb25628daac92ee27c8a4_1de1b0e163.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5dc131ea45bb25628daac92ee27c8a4_1de1b0e163.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Sheppard/404日餐生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/chinatown-mandarin-centre-food-court-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fbefe73322f5b99a13e05e751468e17_64f6fd51fa.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fbefe73322f5b99a13e05e751468e17_64f6fd51fa.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fbefe73322f5b99a13e05e751468e17_64f6fd51fa.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fbefe73322f5b99a13e05e751468e17_64f6fd51fa.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">唐人街文华中心美食广场生意</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-kennedy-hot-pot-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46d8b043a86554202155cfa1ddd7860_cad7cfd8f2.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46d8b043a86554202155cfa1ddd7860_cad7cfd8f2.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46d8b043a86554202155cfa1ddd7860_cad7cfd8f2.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46d8b043a86554202155cfa1ddd7860_cad7cfd8f2.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Kennedy火锅店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card viewed">
+    <a data-v-3d915fb2="" href="/commercial-listing/spadina-college-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3bb5a1e348d5af6859f79013c3c6a76_c47c8c4e84.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3bb5a1e348d5af6859f79013c3c6a76_c47c8c4e84.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3bb5a1e348d5af6859f79013c3c6a76_c47c8c4e84.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3bb5a1e348d5af6859f79013c3c6a76_c47c8c4e84.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Spadina/College外卖餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/sheppard-kennedy-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a1e6ced0e7edfd91eaa4304d5710a3_aad150681a.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a1e6ced0e7edfd91eaa4304d5710a3_aad150681a.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a1e6ced0e7edfd91eaa4304d5710a3_aad150681a.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a1e6ced0e7edfd91eaa4304d5710a3_aad150681a.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Sheppard/Kennedy中餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/mississauga-restaurants-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/49a34a033ef60803a98b7ccc463f6ec_0eefbc312a.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/49a34a033ef60803a98b7ccc463f6ec_0eefbc312a.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/49a34a033ef60803a98b7ccc463f6ec_0eefbc312a.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/49a34a033ef60803a98b7ccc463f6ec_0eefbc312a.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">密市黄金位置分租</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-leslie-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bde6a4e0a0b1700098eeceb71b9a141_1e9d4f3004.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bde6a4e0a0b1700098eeceb71b9a141_1e9d4f3004.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bde6a4e0a0b1700098eeceb71b9a141_1e9d4f3004.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bde6a4e0a0b1700098eeceb71b9a141_1e9d4f3004.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Leslie 餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dining-car-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/515ace558aad82931b6a6824659e70e_8107509dbd.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/515ace558aad82931b6a6824659e70e_8107509dbd.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/515ace558aad82931b6a6824659e70e_8107509dbd.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/515ace558aad82931b6a6824659e70e_8107509dbd.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">餐车生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-kennedy-pet-store-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/00b33437718a771bf48014244c68740_72b5dc5894.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/00b33437718a771bf48014244c68740_72b5dc5894.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/00b33437718a771bf48014244c68740_72b5dc5894.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/00b33437718a771bf48014244c68740_72b5dc5894.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Kennedy宠物店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/woodbine-danforth-fast-food-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/69ca818a1e00aacbc439fd582e703be_77d824186e.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/69ca818a1e00aacbc439fd582e703be_77d824186e.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/69ca818a1e00aacbc439fd582e703be_77d824186e.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/69ca818a1e00aacbc439fd582e703be_77d824186e.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Woodbine/Danforth 快餐店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/markham-unionville-coffee-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bfb3f56e91d356fa8e68c9982f4254c_7beba3d51b.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bfb3f56e91d356fa8e68c9982f4254c_7beba3d51b.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bfb3f56e91d356fa8e68c9982f4254c_7beba3d51b.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bfb3f56e91d356fa8e68c9982f4254c_7beba3d51b.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Markham Main St Unionville咖啡店/餐馆转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/barrie-small-town-japanese-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/f3cf851ef4593eb8773d76f7c793959_be7bb60717.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/f3cf851ef4593eb8773d76f7c793959_be7bb60717.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/f3cf851ef4593eb8773d76f7c793959_be7bb60717.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/f3cf851ef4593eb8773d76f7c793959_be7bb60717.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Barrie小镇日本餐转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/mccowan-sheppard-warehouse-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c5ca1a69ec0e1022c9143afaa29a39c_8ab962590c.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c5ca1a69ec0e1022c9143afaa29a39c_8ab962590c.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c5ca1a69ec0e1022c9143afaa29a39c_8ab962590c.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c5ca1a69ec0e1022c9143afaa29a39c_8ab962590c.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Mccowan/Sheppard仓库转租</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/sheppard-404-fast-food-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c3b29850b9ec1636909de5837c760de_ba8c94be1f.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c3b29850b9ec1636909de5837c760de_ba8c94be1f.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c3b29850b9ec1636909de5837c760de_ba8c94be1f.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c3b29850b9ec1636909de5837c760de_ba8c94be1f.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Sheppard/404 快餐店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-bayview-milk-tea-shop-businesss-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87ac53175745dd547a169db2b5b8780_dc6ea20b17.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87ac53175745dd547a169db2b5b8780_dc6ea20b17.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87ac53175745dd547a169db2b5b8780_dc6ea20b17.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87ac53175745dd547a169db2b5b8780_dc6ea20b17.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Bayview黄金商场奶茶店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-kennedy-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bc3ff52f5f307e1df7ab7891099627e_38a48d3980.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bc3ff52f5f307e1df7ab7891099627e_38a48d3980.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bc3ff52f5f307e1df7ab7891099627e_38a48d3980.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bc3ff52f5f307e1df7ab7891099627e_38a48d3980.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Kennedy附近餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/kennedy-sheppard-bakery-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/872b143a8ef357de2ad3a89dc01c6fe_de54f9d489.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/872b143a8ef357de2ad3a89dc01c6fe_de54f9d489.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/872b143a8ef357de2ad3a89dc01c6fe_de54f9d489.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/872b143a8ef357de2ad3a89dc01c6fe_de54f9d489.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Kennedy/Sheppard面包房生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/midland-mcnicoll-milk-tea-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a45bfb57ef3168a9b628b022b7a995_30bb380152.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a45bfb57ef3168a9b628b022b7a995_30bb380152.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a45bfb57ef3168a9b628b022b7a995_30bb380152.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a45bfb57ef3168a9b628b022b7a995_30bb380152.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Midland/McNicoll 奶茶店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-finch-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5ecfc12f1f77523eab8e55eeee110f8_b695d0bd7a.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5ecfc12f1f77523eab8e55eeee110f8_b695d0bd7a.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5ecfc12f1f77523eab8e55eeee110f8_b695d0bd7a.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5ecfc12f1f77523eab8e55eeee110f8_b695d0bd7a.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Finch餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/birchmount-hwy7-flower-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/05a843357fd40c68beff13d5d973468_8363f8f0fa.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/05a843357fd40c68beff13d5d973468_8363f8f0fa.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/05a843357fd40c68beff13d5d973468_8363f8f0fa.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/05a843357fd40c68beff13d5d973468_8363f8f0fa.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Birchmount/Hwy7 附近花店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/pacific-mall-food-court-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/aca63cce1a91fe62c672ff359dd2ee8_2b4d30f60c.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/aca63cce1a91fe62c672ff359dd2ee8_2b4d30f60c.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/aca63cce1a91fe62c672ff359dd2ee8_2b4d30f60c.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/aca63cce1a91fe62c672ff359dd2ee8_2b4d30f60c.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">太古二楼food court生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/king-spadina-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/dfd147b2d0366ef7da94935e3320e8c_c6b138e53e.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/dfd147b2d0366ef7da94935e3320e8c_c6b138e53e.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/dfd147b2d0366ef7da94935e3320e8c_c6b138e53e.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/dfd147b2d0366ef7da94935e3320e8c_c6b138e53e.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">King/Spadina 赚生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dundas-university-japanese-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/34db54b58e31c251c7ac5db3cc3f60a_d82373578c.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/34db54b58e31c251c7ac5db3cc3f60a_d82373578c.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/34db54b58e31c251c7ac5db3cc3f60a_d82373578c.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/34db54b58e31c251c7ac5db3cc3f60a_d82373578c.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Dundas/University日餐生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/spadina-harbord-st-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/144278e118918cdd662785c82fcb26b_3134205d81.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/144278e118918cdd662785c82fcb26b_3134205d81.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/144278e118918cdd662785c82fcb26b_3134205d81.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/144278e118918cdd662785c82fcb26b_3134205d81.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Spadina/Harbord St餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dt-uoft-dessert-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/b5a9c579021784f9574d46aa96f94d5_1889d41991.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/b5a9c579021784f9574d46aa96f94d5_1889d41991.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/b5a9c579021784f9574d46aa96f94d5_1889d41991.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/b5a9c579021784f9574d46aa96f94d5_1889d41991.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">DT多伦多大学门口的甜品店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/warden-steeles-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/619ad6f08d5663fb878c9dae64014d0_a2f7a6b289.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/619ad6f08d5663fb878c9dae64014d0_a2f7a6b289.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/619ad6f08d5663fb878c9dae64014d0_a2f7a6b289.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/619ad6f08d5663fb878c9dae64014d0_a2f7a6b289.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Warden/Steeles稀缺餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/brimley-huntingwood-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e3102b25d719a5569485fc61e4bff7b_a1c1ad1c05.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e3102b25d719a5569485fc61e4bff7b_a1c1ad1c05.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e3102b25d719a5569485fc61e4bff7b_a1c1ad1c05.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e3102b25d719a5569485fc61e4bff7b_a1c1ad1c05.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Brimley/Huntingwood稀缺餐厅转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-lawrence-gift-shop-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87af2ee01da78145609cff5b9541c67_78a968d817.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87af2ee01da78145609cff5b9541c67_78a968d817.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87af2ee01da78145609cff5b9541c67_78a968d817.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/87af2ee01da78145609cff5b9541c67_78a968d817.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Lawrence首饰礼品店生意</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/aurora-popular-place-bakery-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d00273c339b2ef0aed04dcbf8722b95_405db3d66d.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d00273c339b2ef0aed04dcbf8722b95_405db3d66d.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d00273c339b2ef0aed04dcbf8722b95_405db3d66d.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d00273c339b2ef0aed04dcbf8722b95_405db3d66d.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Aurora繁忙位置面包蛋糕店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/vaughan-popular-plaza-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fca37f518760ff9bf350d47139476ec_b669fdd967.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fca37f518760ff9bf350d47139476ec_b669fdd967.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fca37f518760ff9bf350d47139476ec_b669fdd967.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fca37f518760ff9bf350d47139476ec_b669fdd967.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Vaughan繁忙plaza内日餐生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-eglinton-dessert-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9fcdebefdf82b866432351a479854d7_9a9a50ce75.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9fcdebefdf82b866432351a479854d7_9a9a50ce75.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9fcdebefdf82b866432351a479854d7_9a9a50ce75.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9fcdebefdf82b866432351a479854d7_9a9a50ce75.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Eglinton甜品店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card viewed">
+    <a data-v-3d915fb2="" href="/commercial-listing/spadina-college-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/80d9ed19f5507d76992e8a8a1a3d98d_262616e2c8.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/80d9ed19f5507d76992e8a8a1a3d98d_262616e2c8.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/80d9ed19f5507d76992e8a8a1a3d98d_262616e2c8.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/80d9ed19f5507d76992e8a8a1a3d98d_262616e2c8.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Spadina/College餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card viewed">
+    <a data-v-3d915fb2="" href="/commercial-listing/uoft-scarborough-campus-nearby-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3ec49c89396f77b69a5dcfa833a7dfc_623d325322.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3ec49c89396f77b69a5dcfa833a7dfc_623d325322.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3ec49c89396f77b69a5dcfa833a7dfc_623d325322.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3ec49c89396f77b69a5dcfa833a7dfc_623d325322.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">多伦多大学士嘉堡校区附近餐馆生意</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dundas-spadina-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4d6e966dcf0e4d65eeed7d97c94f812_809ac06844.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4d6e966dcf0e4d65eeed7d97c94f812_809ac06844.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4d6e966dcf0e4d65eeed7d97c94f812_809ac06844.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4d6e966dcf0e4d65eeed7d97c94f812_809ac06844.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Dundas/Spadina餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/finch-markham-rd-freezer-warehouse-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/689f4f47631a1e6b91577ecf0a6e872_e86bd8793c.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/689f4f47631a1e6b91577ecf0a6e872_e86bd8793c.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/689f4f47631a1e6b91577ecf0a6e872_e86bd8793c.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/689f4f47631a1e6b91577ecf0a6e872_e86bd8793c.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Finch/Markham rd冻库出租</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-finch-dessert-store-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a2a8bd0ec091ce38da71b8c3fc28b1_e4c15150ef.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a2a8bd0ec091ce38da71b8c3fc28b1_e4c15150ef.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a2a8bd0ec091ce38da71b8c3fc28b1_e4c15150ef.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2a2a8bd0ec091ce38da71b8c3fc28b1_e4c15150ef.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Finch蛋糕店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-bloor-popular-japanese-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/686a63aafa545dc32ba30946bd5ecab_77a8392fad.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/686a63aafa545dc32ba30946bd5ecab_77a8392fad.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/686a63aafa545dc32ba30946bd5ecab_77a8392fad.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/686a63aafa545dc32ba30946bd5ecab_77a8392fad.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Bloor知名日餐生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/markham-rd-bur-oak-commercial-property-ownership-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/55061b210eaf79b40a462f3d8716407_4ad198aa13.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/55061b210eaf79b40a462f3d8716407_4ad198aa13.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/55061b210eaf79b40a462f3d8716407_4ad198aa13.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/55061b210eaf79b40a462f3d8716407_4ad198aa13.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Markham Rd/Bur Oak商业物业出售</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/finch-midland-sky-city-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/458d677e5829fe67c9282327c8320d8_da05157648.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/458d677e5829fe67c9282327c8320d8_da05157648.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/458d677e5829fe67c9282327c8320d8_da05157648.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/458d677e5829fe67c9282327c8320d8_da05157648.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Finch/Midland金钟城餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/kennedy-mcnicoll-hot-pot-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a6e0622cf65fa3fca646250bd9383b_0e0e3f121d.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a6e0622cf65fa3fca646250bd9383b_0e0e3f121d.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a6e0622cf65fa3fca646250bd9383b_0e0e3f121d.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/4a6e0622cf65fa3fca646250bd9383b_0e0e3f121d.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Kennedy/Mcnicoll火锅店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/bayview-major-mckenzie-vietnamese-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9afee4e57fe4a4992194965ad7a0855_536fbd32db.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9afee4e57fe4a4992194965ad7a0855_536fbd32db.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9afee4e57fe4a4992194965ad7a0855_536fbd32db.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/9afee4e57fe4a4992194965ad7a0855_536fbd32db.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Bayview/Major McKenzie越南餐转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/markham-maternal-and-baby-store-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d35f098fa92fe33085faf2c6b96f3a3_995aa8f104.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d35f098fa92fe33085faf2c6b96f3a3_995aa8f104.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d35f098fa92fe33085faf2c6b96f3a3_995aa8f104.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d35f098fa92fe33085faf2c6b96f3a3_995aa8f104.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">创业好机会Markham母婴店生意转</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/finch-midland-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5d133f540bb89b035e051dbb6b1ebd5_090d6c40c7.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5d133f540bb89b035e051dbb6b1ebd5_090d6c40c7.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5d133f540bb89b035e051dbb6b1ebd5_090d6c40c7.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/5d133f540bb89b035e051dbb6b1ebd5_090d6c40c7.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Finch/Midland餐馆转租</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dundas-spadina-chinatown-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c051f27a82ea86535a3d6b3e88a6297_3777c88044.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c051f27a82ea86535a3d6b3e88a6297_3777c88044.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c051f27a82ea86535a3d6b3e88a6297_3777c88044.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/c051f27a82ea86535a3d6b3e88a6297_3777c88044.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Dundas/Spadina唐人街餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/woodbine-hwy7-yang-braised-chicken-rice-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bd24ac8c4cd90f09e1a41eeece206e1_861e16a6ef.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bd24ac8c4cd90f09e1a41eeece206e1_861e16a6ef.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bd24ac8c4cd90f09e1a41eeece206e1_861e16a6ef.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/bd24ac8c4cd90f09e1a41eeece206e1_861e16a6ef.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">杨铭宇黄焖鸡转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-finch-take-out-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2ead45ca9df109dca352baf4907c0e8_6def78eece.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2ead45ca9df109dca352baf4907c0e8_6def78eece.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2ead45ca9df109dca352baf4907c0e8_6def78eece.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/2ead45ca9df109dca352baf4907c0e8_6def78eece.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Finch外卖餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-bloor-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d7d21dce1c962f3522cea2fa2793839_a2c74e4523.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d7d21dce1c962f3522cea2fa2793839_a2c74e4523.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d7d21dce1c962f3522cea2fa2793839_a2c74e4523.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d7d21dce1c962f3522cea2fa2793839_a2c74e4523.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Bloor餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/victoria-park-mcnicoll-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3a8035fb95cbcec2f3e65ec017f4732_2ca78b8dd5.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3a8035fb95cbcec2f3e65ec017f4732_2ca78b8dd5.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3a8035fb95cbcec2f3e65ec017f4732_2ca78b8dd5.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/3a8035fb95cbcec2f3e65ec017f4732_2ca78b8dd5.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Victoria Park/Mcnicoll餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-bayview-japanese-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/336235a68e810cc05e101fab5231959_b0af9d55bd.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/336235a68e810cc05e101fab5231959_b0af9d55bd.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/336235a68e810cc05e101fab5231959_b0af9d55bd.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/336235a68e810cc05e101fab5231959_b0af9d55bd.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7主路上近Bayview日餐生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/hwy7-leslie-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/0e289b7ad205ea2c39e02f510cfda62_10ff03a94b.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/0e289b7ad205ea2c39e02f510cfda62_10ff03a94b.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/0e289b7ad205ea2c39e02f510cfda62_10ff03a94b.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/0e289b7ad205ea2c39e02f510cfda62_10ff03a94b.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Hwy 7/Leslie餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-finch-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/78e65866508d5ae11fdb31e1ddedc14_364ad7a5b0.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/78e65866508d5ae11fdb31e1ddedc14_364ad7a5b0.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/78e65866508d5ae11fdb31e1ddedc14_364ad7a5b0.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/78e65866508d5ae11fdb31e1ddedc14_364ad7a5b0.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Finch小吃店转租或者转让生意</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/mississauga-food-retail-location-sub-lease" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/290fa22f76406bd9317ad2dfb4a0056_8aedfd4368.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/290fa22f76406bd9317ad2dfb4a0056_8aedfd4368.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/290fa22f76406bd9317ad2dfb4a0056_8aedfd4368.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/290fa22f76406bd9317ad2dfb4a0056_8aedfd4368.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">密市餐饮零售位置分租</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-major-mackenzie-milk-tea-store-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/da1058247f29b7273fa915a826a9871_62ebe39faa.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/da1058247f29b7273fa915a826a9871_62ebe39faa.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/da1058247f29b7273fa915a826a9871_62ebe39faa.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/da1058247f29b7273fa915a826a9871_62ebe39faa.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Major Mackenzie奶茶转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-sheppard-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/550d8a5ca0b688203cbea9852dd15de_e792a20901.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/550d8a5ca0b688203cbea9852dd15de_e792a20901.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/550d8a5ca0b688203cbea9852dd15de_e792a20901.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/550d8a5ca0b688203cbea9852dd15de_e792a20901.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Sheppard餐馆生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/st-clair-dufferin-takeout-poke-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46a71fd73f73d605425f2281914898e_435f855456.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46a71fd73f73d605425f2281914898e_435f855456.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46a71fd73f73d605425f2281914898e_435f855456.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/46a71fd73f73d605425f2281914898e_435f855456.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">St Clair/Dufferin外卖Poke店生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/mississsauga-burnhamthorpe-hurontarion-st-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d2b1a5f5abf6e827f535c5797694872_2b049c66ff.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d2b1a5f5abf6e827f535c5797694872_2b049c66ff.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d2b1a5f5abf6e827f535c5797694872_2b049c66ff.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d2b1a5f5abf6e827f535c5797694872_2b049c66ff.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">密市Burnhamthorpe/ Hurontarion St 餐馆出售</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/kennedy-hwy7-new-kennedy-square-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e2f60eebf7d6b28169a669f35c2169e_cb8a998a11.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e2f60eebf7d6b28169a669f35c2169e_cb8a998a11.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e2f60eebf7d6b28169a669f35c2169e_cb8a998a11.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/e2f60eebf7d6b28169a669f35c2169e_cb8a998a11.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Kennedy/Hwy 7新旺角广场内餐馆出售</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/spadina-college-takeout-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/25491f41f5fd6a366b22da248ae483f_4d32b53b50.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/25491f41f5fd6a366b22da248ae483f_4d32b53b50.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/25491f41f5fd6a366b22da248ae483f_4d32b53b50.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/25491f41f5fd6a366b22da248ae483f_4d32b53b50.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Spadina/College外卖餐馆出售</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/yonge-shepard-food-court-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d042ccb6e982322b1b5c4518a32f6e3_e91c18b2c2.png" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d042ccb6e982322b1b5c4518a32f6e3_e91c18b2c2.png&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d042ccb6e982322b1b5c4518a32f6e3_e91c18b2c2.png" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/d042ccb6e982322b1b5c4518a32f6e3_e91c18b2c2.png">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Yonge/Shepard 绿楼内food court生意转让</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/dundas-spadina-hot-pot-restaurant-business-for-sale" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fe6e30d8d6d67ca18a8d005fdce0477_99bccb65d9.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fe6e30d8d6d67ca18a8d005fdce0477_99bccb65d9.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fe6e30d8d6d67ca18a8d005fdce0477_99bccb65d9.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/fe6e30d8d6d67ca18a8d005fdce0477_99bccb65d9.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Dundas/Spadina火锅店出售</div>
+</div>
+<div data-v-3d915fb2="" data-v-bcdac844="" class="listing-card">
+    <a data-v-3d915fb2="" href="/commercial-listing/woodbine-14th-street-office-business-rent" class="">
+        <div data-v-3d915fb2="" data-bgset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/45a1fc1114d8be2a2bf8d4eb1dedf62_a1ec276d78.jpg" class="img-wrapper lazyloaded" style="background-image: url(&quot;https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/45a1fc1114d8be2a2bf8d4eb1dedf62_a1ec276d78.jpg&quot;);">
+            <picture style="display: none;">
+            <source data-srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/45a1fc1114d8be2a2bf8d4eb1dedf62_a1ec276d78.jpg" sizes="324px" srcset="https://jy-construction-cms-mooc.s3.ca-central-1.amazonaws.com/45a1fc1114d8be2a2bf8d4eb1dedf62_a1ec276d78.jpg">
+            <img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="324px"></picture>
+        </div>
+        <div data-v-3d915fb2="" class="card-mask"></div>
+    </a>
+    <div data-v-3d915fb2="" class="card-title">Woodbine/14街附近二楼办公室转租</div>
+</div>
