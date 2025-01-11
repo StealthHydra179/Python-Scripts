@@ -1,7 +1,28 @@
+# Purpose: This program compares the theoretical and experimental capacities of a battery at different temperatures.
+# Theoretical capacities are calculated using the Nernst equation, integrated over a specific range, while experimental 
+# capacities are derived from provided data. It visualizes the results by plotting theoretical and experimental values 
+# on a graph and includes additional data on energy resistance and associated errors.
+
+# Key Features:
+# 1. **Theoretical Capacity Calculation**: Uses the scipy.integrate.quad function to compute the integral of the Nernst 
+#    equation for various temperatures. The result is used to estimate the theoretical capacity.
+# 2. **Experimental Data Analysis**: Includes additional data for energy resistance and error values at specific 
+#    temperatures, allowing comparison with theoretical values.
+# 3. **Visualization**: Uses matplotlib to create two graphs:
+#    - Energy vs. Temperature (theoretical values).
+#    - Energy × Resistance vs. Temperature with error bars (experimental data).
+
+# Libraries Used:
+# - numpy: For efficient numerical operations.
+# - matplotlib: For creating graphs and visualizations.
+# - scipy.integrate: For performing numerical integration using the quad function.
+
+# Output: Graphs displaying theoretical energy values and experimental energy × resistance values, with error bars for clarity.
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
-from scipy.constants import R
 
 # Function to compute the integral
 def integrand(r, x):

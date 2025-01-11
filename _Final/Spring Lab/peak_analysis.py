@@ -1,9 +1,10 @@
 ## TODO FIGURE OUT WHY THIS CODE IS BREAKING
 
-# This program finds the peaks of the data by comparing it to the previous and next point
-# It then finds the true peak by comparing the two peaks and the time difference between them
-# Assuming that the velocity of the wave is constant, it calculates the true peak height and time
-# It then plots the true peaks on a graph
+# The program leverages the pandas library for data processing and matplotlib for plotting the data.
+
+# This program identifies data peaks by comparing each point to its neighbors. 
+# It determines the true peak by evaluating adjacent peaks and their time differences, assuming a constant velocity. 
+# The program then calculates the true peak's height and time, then visualizes these peaks on a graph.
 
 import csv
 import math

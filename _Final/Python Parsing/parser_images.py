@@ -1,3 +1,25 @@
+# Purpose: This program processes an input file to extract data such as URLs, image URLs, 
+# image names, and location names. It automates the process of downloading images, 
+# generating SQL INSERT queries for database insertion, and handling potential conflicts 
+# like duplicate files or special characters in SQL.
+
+# Technologies Used:
+# - requests: For downloading images from the URLs in the input file.
+# - os.path: To check for the existence of files in the specified storage folder before downloading.
+# - SQL: To structure the extracted data into insertable database queries.
+
+# Key Features:
+# 1. Image Handling: Downloads images to a local storage folder, avoiding duplicates 
+#    by verifying file existence.
+# 2. SQL Query Generation: Escapes single quotes and formats the data into INSERT 
+#    statements for easy integration into a database.
+# 3. Efficiency: Processes input files line by line, ensuring scalability and accurate 
+#    data extraction based on the input format.
+
+# Output: Downloaded images are saved locally, and SQL queries are written to an output file, 
+# ready for execution to populate a database.
+
+
 import os.path
 import requests
 
